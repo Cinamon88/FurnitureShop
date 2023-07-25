@@ -7,7 +7,7 @@
 The project is an example of a furniture store website coded from a free PSD template, in accordance with the client's guidelines based on JavaScript, SCSS, Redux, React technologies. Based on Bootstrap, so easy to expand, flexible. Lightweight, no heavy plugins. Compatible with RWD.
 
 ## Demo
-Live demo here.
+Live demo here: https://furnitureshop.cinamon88.repl.co
 
 ## Menu
 Two language versions to choose from - Polish and English.
